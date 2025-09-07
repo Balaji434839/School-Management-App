@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +35,28 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+# School Management App
+
+A web application designed to help users locate schools in densely populated areas. Ideal for parents, students, and educational administrators seeking better access to school information.
+
+## 🚀 Features
+- School search by location
+- Filter by type (public/private)
+- Interactive map integration
+- Registration module for new students
+- Admin dashboard for school management
+
+## 🛠️ Tech Stack
+- Next.js
+- Tailwind CSS
+- Node.js
+- MongoDB (or your database of choice)
+
+## 📦 Installation
+```bash
+git clone https://github.com/Balaji434839/School-Management-App.git
+cd School-Management-App
+npm install
+npm run dev
+>>>>>>> b9ba665d6a6c7e932cb126beec879703d8574acc
